@@ -36,3 +36,7 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'debugger'
+
+gem 'itunes-search-api'
+gem 'devise'
+gem 'haml'
