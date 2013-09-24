@@ -1,0 +1,1 @@
+A user appraches the terminal which is logged in to the jukebox page. They view a list of available songs, choose a song, and are provided with additional information on the song, artist, and album as well as the price to play a song. They choose to play the song and, if insufficient credit is available, they are prompted to insert money. 
